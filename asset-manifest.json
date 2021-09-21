@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/waitisova/static/css/main.0c859cfc.chunk.css",
+    "main.css": "/waitisova/static/css/main.bae69d03.chunk.css",
     "main.js": "/waitisova/static/js/main.f950aca4.chunk.js",
     "main.js.map": "/waitisova/static/js/main.f950aca4.chunk.js.map",
     "runtime-main.js": "/waitisova/static/js/runtime-main.7b59f490.js",
@@ -8,13 +8,13 @@
     "static/js/2.cf04a254.chunk.js": "/waitisova/static/js/2.cf04a254.chunk.js",
     "static/js/2.cf04a254.chunk.js.map": "/waitisova/static/js/2.cf04a254.chunk.js.map",
     "index.html": "/waitisova/index.html",
-    "static/css/main.0c859cfc.chunk.css.map": "/waitisova/static/css/main.0c859cfc.chunk.css.map",
+    "static/css/main.bae69d03.chunk.css.map": "/waitisova/static/css/main.bae69d03.chunk.css.map",
     "static/js/2.cf04a254.chunk.js.LICENSE.txt": "/waitisova/static/js/2.cf04a254.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7b59f490.js",
     "static/js/2.cf04a254.chunk.js",
-    "static/css/main.0c859cfc.chunk.css",
+    "static/css/main.bae69d03.chunk.css",
     "static/js/main.f950aca4.chunk.js"
   ]
 }
