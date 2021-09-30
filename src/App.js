@@ -25,7 +25,7 @@ function App() {
 
   
   useEffect(()=>{
-    const deadline = new Date('October 01, 2021 09:00:00');
+    const deadline = new Date('October 23, 2021 09:00:00');
     setTimeout(() => {
       const tp=gettime(deadline);
       
